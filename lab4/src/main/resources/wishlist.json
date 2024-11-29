@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Safari Adventure",
+    "type": "Adventure",
+    "transport": "Bus",
+    "mealOption": "Full Board",
+    "numberOfDays": 7,
+    "price": 1200,
+    "rating": 4.8
+  },
+  {
+    "name": "Island Hopping in Greece",
+    "type": "Leisure",
+    "transport": "Boat",
+    "mealOption": "Full Board",
+    "numberOfDays": 10,
+    "price": 2200,
+    "rating": 4.8
+  },
+  {
+    "name": "Cultural Japan Tour",
+    "type": "Culture",
+    "transport": "Train",
+    "mealOption": "Half Board",
+    "numberOfDays": 14,
+    "price": 2500,
+    "rating": 4.9
+  },
+  {
+    "name": "City Shopping Spree",
+    "type": "Shopping",
+    "transport": "Plane",
+    "mealOption": "Breakfast Only",
+    "numberOfDays": 3,
+    "price": 800,
+    "rating": 4.2
+  }
+]
